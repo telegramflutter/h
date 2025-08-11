@@ -1,7 +1,8 @@
-name: f
+name: h
 description: "UI Kit aiming to help developers create beautiful instant messaging apps."
 version: 0.0.1
-homepage:
+homepage: https://pwa.ir
+repository: https://github.com/telegramflutter/h
 
 environment:
   sdk: ^3.3.0
